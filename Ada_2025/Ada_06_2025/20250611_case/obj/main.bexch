@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_06_2025/20250611_case/my_project.gpr
+20250611041905 a7d41eee53b5f644c5c86f93f57c1660
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_06_2025/20250611_case/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_06_2025/20250611_case/obj/
+-L/home/exin/Workspace/Ada/Ada_06_2025/20250611_case/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13

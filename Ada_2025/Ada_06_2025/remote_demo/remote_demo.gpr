@@ -1,0 +1,9 @@
+project Remote_Demo is
+
+   for Source_Dirs use (".");
+
+   for Main use ("main.adb");  -- Change if your main file is named differently
+
+end Remote_Demo;
+
+

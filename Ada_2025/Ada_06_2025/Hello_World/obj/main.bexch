@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_06_2025/Hello_World/hello_world.gpr
+20250607072701 445f113e827bb49b36354499229e3fb8
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_06_2025/Hello_World/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_06_2025/Hello_World/obj/
+-L/home/exin/Workspace/Ada/Ada_06_2025/Hello_World/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13
