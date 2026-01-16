@@ -1,0 +1,24 @@
+V "GNAT Lib v13"
+A -gnatA
+A -mlittle-endian
+A -mabi=lp64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U math_ops_division%b	math_ops_division.adb	18905b18 NE OO PK
+
+U math_ops_division%s	math_ops_division.ads	b3c80ab7 EE NE OO PK
+
+D math_ops_division.ads	20260116063841 b3c80ab7 math_ops_division%s
+D math_ops_division.adb	20260116063841 ab5851af math_ops_division%b
+D system.ads		20240521074738 a4968d35 system%s
+G a e
+G c Z s b [division math_ops_division 3 13 none]
+X 1 math_ops_division.ads
+1K9*Math_Ops_Division 5l5 5e22 2|1b14 11l5 11t22
+3V13*division{integer} 3>23 3>26 2|3b13 9l8 9t16
+3i23 A{integer} 2|3b23 8r14
+3i26 B{integer} 2|3b26 5r10 8r18
+

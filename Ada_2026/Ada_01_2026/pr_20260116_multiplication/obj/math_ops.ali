@@ -1,0 +1,24 @@
+V "GNAT Lib v13"
+A -gnatA
+A -mlittle-endian
+A -mabi=lp64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U math_ops%b		math_ops.adb		4b887484 NE OO PK
+
+U math_ops%s		math_ops.ads		1eaa5020 EE NE OO PK
+
+D math_ops.ads		20260116055707 1eaa5020 math_ops%s
+D math_ops.adb		20260116055707 552224a4 math_ops%b
+D system.ads		20240521074738 a4968d35 system%s
+G a e
+G c Z s b [multiplication math_ops 3 13 none]
+X 1 math_ops.ads
+2K9*Math_Ops 4l5 4e13 2|2b14 7l5 7t13
+3V13*multiplication{integer} 3>29 3>32 2|3b13 6l8 6t22
+3i29 A{integer} 2|3b29 5r14
+3i32 B{integer} 2|3b32 5r18
+

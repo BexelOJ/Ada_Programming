@@ -1,0 +1,10 @@
+project Pr_Main is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("main.adb");
+    
+    -- REMOTE RPI CONFIGURATION
+    --package Builder is
+    --    for Remote_Host use "exin@192.168.1.104";
+    --end Builder;
+end Pr_Main;

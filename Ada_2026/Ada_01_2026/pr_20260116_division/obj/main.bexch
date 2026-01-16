@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_division/pr_division.gpr
+20260116063840 7cfb8da9904c1618b24064b1c2cfb006
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_division/obj/math_ops_division.o
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_division/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_division/obj/
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_division/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13

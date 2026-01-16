@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_multiplication/pr_multiplication.gpr
+20260116055706 349b1e8d976f827f78d9bac9cdbe85ce
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_multiplication/obj/math_ops.o
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_multiplication/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_multiplication/obj/
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260116_multiplication/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13

@@ -1,0 +1,5 @@
+package Math_Ops_Division is
+
+   function division (Num_1, Num_2: Integer) return Integer;
+
+end Math_Ops_Division;
