@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_AppDefinedTypes/pr_appdefinedtypes.gpr
+20260119022944 ec2d116bbb8aa800817d565a85eeb0e3
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_AppDefinedTypes/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_AppDefinedTypes/obj/
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_AppDefinedTypes/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13

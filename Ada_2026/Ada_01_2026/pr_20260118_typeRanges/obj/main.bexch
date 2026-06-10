@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260117_typeRanges/pr_typeranges.gpr
+20260117013846 d542e8a0cea150dd00ccb502d95b3a5c
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260117_typeRanges/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260117_typeRanges/obj/
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260117_typeRanges/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13

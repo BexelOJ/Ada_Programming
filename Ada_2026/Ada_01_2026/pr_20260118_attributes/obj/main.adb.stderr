@@ -1,0 +1,5 @@
+main.adb:12:04: error: no candidate interpretations match the actuals:
+main.adb:12:04: error: missing argument for parameter "Item" in call to "Put_Line" declared at a-textio.ads:555
+main.adb:12:21: error: expected type "Standard.String"
+main.adb:12:21: error: found type "Standard.Integer"
+main.adb:12:21: error:   ==> in call to "Put_Line" at a-textio.ads:566

@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_attributes/pr_attributes.gpr
+20260118140348 90e5571bb907605526e6c6a4e75f8663
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_attributes/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_attributes/obj/
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_attributes/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13

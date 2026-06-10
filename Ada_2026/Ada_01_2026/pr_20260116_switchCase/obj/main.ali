@@ -9,7 +9,7 @@ RN
 RV NO_IO
 RV NO_IMPLEMENTATION_PRAGMAS
 
-U main%b		main.adb		edab9be5 NE OO SU
+U main%b		main.adb		24585b51 NE OO SU
 W ada%s			ada.ads			ada.ali
 W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
 Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
@@ -29,7 +29,7 @@ D a-tiinio.ads		20240521074738 e58fa6fb ada.text_io.integer_io%s
 D a-unccon.ads		20240521074738 0e9b276f ada.unchecked_conversion%s
 D interfac.ads		20240521074738 15f799c2 interfaces%s
 D i-cstrea.ads		20240521074738 e53d8b8e interfaces.c_streams%s
-D main.adb		20260116132659 47cc7312 main%b
+D main.adb		20260118055303 8e3fb3a6 main%b
 D system.ads		20240521074738 a4968d35 system%s
 D s-crtl.ads		20240521074738 8a0692f8 system.crtl%s
 D s-exctab.ads		20240521074738 91bef6ef system.exception_table%s
@@ -53,7 +53,10 @@ X 3 a-inteio.ads
 18K13*Integer_Text_IO[11|46] 15|3w10 4r9
 X 10 a-textio.ads
 58K13*Text_IO 787e16 15|1w10 2r9
-566U14*Put_Line 15|9s4
+566U14*Put_Line 15|9s4 10s4 14s10 16s10 18s10 22s13 24s13
+X 11 a-tiinio.ads
+60U14*Get 15|11s4[3|18]
 X 15 main.adb
-6U11*Main 6b11 10l5 10t9
+6U11*Main 6b11 28l5 28t9
+7i4 val{integer} 11m8 12r9 21r13
 

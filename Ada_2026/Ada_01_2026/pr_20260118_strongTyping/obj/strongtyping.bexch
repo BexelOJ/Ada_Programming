@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__strongtyping.o
+[PROJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_strongTyping/pr_strongtyping.gpr
+20260119014105 161142cd5d2b05287d7935f9e4adb594
+[BOUND OBJECT FILES]
+/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_strongTyping/obj/strongtyping.o
+[GENERATED SOURCE FILES]
+b__strongtyping.ads
+b__strongtyping.adb
+b__strongtyping.ali
+[RESULTING OPTIONS]
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_strongTyping/obj/
+-L/home/exin/Workspace/Ada/Ada_2026/Ada_01_2026/pr_20260118_strongTyping/obj/
+-L/usr/lib/gcc/aarch64-linux-gnu/13/adalib/
+-shared
+-lgnat-13
