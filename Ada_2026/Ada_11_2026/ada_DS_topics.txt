@@ -1,0 +1,303 @@
+-----------------------------------------------------
+Data Structures in Ada Programming Language:
+
+Ada is particularly interesting because 
+it is designed for reliability, safety, 
+strong typing and systems programming. 
+
+It is widely relevant to embedded systems, 
+avionics, aerospace and safety-critical software.
+
+One important distinction: 
+Ada provides built-in language constructs 
+and standard library packages, 
+but some data structures need to be 
+implemented manually.
+
+-----------------------------------------------------
+1. Fundamental data types and collections:
+
+These are the building blocks for implementing 
+data structures.
+
+No.	Data structure/concept - Ada support
+
+1  Scalar types 		- Built-in
+2  Enumeration types 	- Built-in
+3  Subtypes and ranges 	- Built-in
+4  Records 				- Built-in
+5  Arrays (static) 		- Built-in
+6  Unconstrained arrays 	- Built-in
+7  Strings 					- Built-in
+8  Multidimensional arrays 	- Built-in
+9  Access types (pointers) 	- Built-in
+10 Discriminated records 	- Built-in
+
+-----------------------------------------------------
+2. Linear data structures:
+
+These store elements in a sequential arrangement.
+
+No.	Data structure - Implementation
+
+11	Stack (LIFO) 
+	- Implement using arrays or vectors
+
+12	Queue (FIFO) 
+	- Implement using arrays or vectors
+
+13	Circular Queue 
+	- Implement manually
+
+14	Deque (Double-ended Queue) 
+	- Implement manually or using a container
+
+15	Singly Linked List 
+	- Implement manually
+
+16	Doubly Linked List
+	- Ada.Containers.Doubly_Linked_Lists
+
+17	Circular Linked List
+	- Implement manually
+
+18	Dynamic Array
+	- Ada.Containers.Vectors
+
+19	Bounded Vector
+	- Ada.Containers.Bounded_Vectors
+
+20	Unbounded Vector
+	- Ada.Containers.Vectors
+
+-----------------------------------------------------
+3. Associative data structures:
+
+Intermediate level
+These structures store data using keys, 
+values or membership rules.
+
+No.	Data structure	Ada support
+
+21	Pair/Key-Value Pair 
+	- Record
+
+22	Dictionary/Map
+	- Ada.Containers.Ordered_Maps
+
+23	Hash Map
+	- Ada.Containers.Hashed_Maps
+
+24	Set
+	- Ada.Containers.Ordered_Sets
+
+25	Hash Set
+	- Ada.Containers.Hashed_Sets
+
+26	Multiset
+	- Implement using maps or manually
+
+27	Multimap
+	- Implement using maps with collection values
+
+28	Symbol Table
+	- Implement using maps
+
+Ada also provides indefinite variants of several 
+container packages for elements whose sizes are 
+not fixed at compile time, such as strings.
+
+-----------------------------------------------------
+4. Tree-based data structures:
+
+No.	Data structure - Implementation
+
+29	General Tree  			 - Implement manually
+30	Binary Tree 			 - Implement manually
+31	Full Binary Tree 		 - Implement manually
+32	Complete Binary Tree 	 - Implement manually
+33	Perfect Binary Tree 	 - Implement manually
+34	Binary Search Tree (BST) - Implement manually
+35	AVL Tree 				 - Implement manually
+36	Red-Black Tree 	- Implement manually
+37	B-Tree       	- Implement manually
+38	B+ Tree 		- Implement manually
+39	Heap 			- Implement manually
+40	Max Heap 		- Implement manually
+41	Min Heap 		- Implement manually
+42	Priority Queue 		- Implement using a heap
+43	Trie (Prefix Tree) 	- Implement manually
+44	Segment Tree 		- Implement manually
+45	Fenwick Tree (Binary Indexed Tree) - Implement manually
+46	Multiway Tree - Ada.Containers.Multiway_Trees
+
+Important: 
+Ada's Ordered_Maps and Ordered_Sets are implemented 
+using ordered tree structures by the 
+language library specification's abstraction, 
+but you should not assume they expose or 
+guarantee a particular internal 
+tree-balancing algorithm.
+
+-----------------------------------------------------
+5. Graph data structures
+
+No.	Data structure - Implementation
+
+47	Undirected Graph 	- Implement manually
+48	Directed Graph 		- Implement manually
+49	Weighted Graph 		- Implement manually
+50	Unweighted Graph 	- Implement manually
+51	Adjacency Matrix 	- 2D array
+52	Adjacency List - Arrays, vectors or linked lists
+53	DirectedAcyclicGraph(DAG) - Graph representation
+54	Sparse Graph 		- Adjacency list
+55	Dense Graph 		- Adjacency matrix
+
+-----------------------------------------------------
+6. Specialized and advanced data structures
+
+No.	Data structure	Purpose
+
+56	Disjoint Set/Union-Find 
+	- Track connected components
+
+57	Bloom Filter 
+	- Probabilistic membership checking
+
+58	LRU Cache 
+	- Cache management
+
+59	Circular Buffer 
+	- Embedded systems and streaming
+
+60	Ring Buffer 
+	- Continuous data buffering
+
+61	Skip List 
+	- Ordered searching
+
+62	Hash Table 
+	- Fast key lookup
+
+63	Sparse Matrix 
+	- Efficient sparse numerical data
+
+64	Bit Set/Bit Vector 
+	- Compact bit storage
+
+65	Monotonic Stack 
+	- Algorithmic problem solving
+
+66	Monotonic Queue 
+	- Sliding-window algorithms
+
+-----------------------------------------------------
+7. Concurrent data structures
+
+These are particularly interesting for embedded 
+and real-time programming.
+
+No.	Data structure - Ada support
+
+67	Synchronized Queue 
+	- Ada.Containers.Synchronized_Queue_Interfaces
+
+68	Bounded Synchronized Queue 
+	- Ada.Containers.Bounded_Synchronized_Queues
+
+69	Unbounded Synchronized Queue 
+	- Ada.Containers.Unbounded_Synchronized_Queues
+
+70	Protected Queue 
+	- Implement using Ada protected types
+
+71	Thread-safe Circular Buffer 
+	- Implement using protected types
+
+-----------------------------------------------------
+8. Recommended learning order
+
+I suggest we follow this progression for your 
+Ada DS repository:
+
+Ada Data Structures Roadmap:
+
+1. Phase 01 — Fundamentals:
+   
+   Scalar types, records, arrays, strings, 
+   access types and discriminated records.
+
+2. Phase 02 — Linear structures:
+   
+   Stack, Queue, Circular Queue, Deque, 
+   Linked Lists and Vectors.
+
+3. Phase 03 — Associative structures:
+ 
+   Pair, Map, Hash Map, Set, Hash Set and 
+   Symbol Table.
+
+4. Phase 04 — Tree structures:
+   
+   Binary Tree, BST, AVL, Red-Black Tree, Heap, 
+   Priority Queue and Trie.
+
+5. Phase 05 — Graph structures:
+   
+   Graph representations, directed graphs, 
+   weighted graphs and DAG.
+
+6. Phase 06 — Advanced structures:
+   
+   Union-Find, Bloom Filter, LRU Cache, 
+   Skip List, Segment Tree and Fenwick Tree.
+
+7. Phase 07 — Concurrent structures:
+   
+   Protected Queue, Synchronized Queue and 
+   Circular Buffer.
+
+-----------------------------------------------------
+9. How we should implement each data structure
+
+I recommend maintaining two implementations 
+wherever applicable:
+
+- Manual implementation: 
+Understand the internal data structure, 
+algorithms and memory management.
+
+- Ada standard library implementation: 
+Learn how professional Ada applications 
+use generic containers.
+
+For each topic, we can follow this format:
+
+1. Concept and terminology.
+2. Visual representation.
+3. Comparison with C, C++ and Rust.
+4. Ada syntax and relevant language features.
+5. Complete standalone Ada program.
+6. Generic package implementation, where applicable.
+7. Compilation and execution commands.
+8. Test cases and expected output.
+9. Time and space complexity.
+10. Practical embedded-systems application.
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+
