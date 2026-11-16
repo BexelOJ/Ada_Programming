@@ -1,0 +1,28 @@
+
+@'
+# GNAT / Ada compiler-generated files
+*.ali
+*.o
+*.bexch
+*.exe
+
+# Build directories
+obj/
+bin/
+
+# GNAT Studio generated files
+gpsauto.cgpr
+*-loc.xml
+
+# Program execution output
+*.stdout
+*.stderr
+
+# Temporary files
+*.tmp
+*.bak
+*~
+'@ | Set-Content -Encoding utf8 .gitignore
+
+
+
