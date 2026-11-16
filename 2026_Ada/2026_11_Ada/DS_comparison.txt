@@ -1,0 +1,60 @@
+-----------------------------------------------------
+Associative containers across programming languages:
+-----------------------------------------------------
+Language - Ordered variant - Unordered / Hash variant
+
+C++:
+
+Set 	 - std::set 	 - std::unordered_set
+Multiset - std::multiset - std::unordered_multiset
+Map 	 - std::map 	 - std::unordered_map
+Multimap - std::multimap - std::unordered_multimap
+
+-----------------------------------------------------
+Java:
+
+Set 	 - TreeSet 	      - HashSet
+Multiset - Guava TreeMultiset - Guava HashMultiset
+Map 	 - TreeMap            - HashMap
+Multimap - Guava TreeMultimap - Guava HashMultimap
+
+-----------------------------------------------------
+Python:
+
+Set	 - (No built-in sorted set) - set
+Multiset - sorted(Counter(...).elements()) - collections.Counter
+Map 	 - (No built-in sorted map) - dict
+Multimap - dict with sorted values - dict with list values
+
+-----------------------------------------------------
+Rust:
+
+Set 	 - BTreeSet 	       - HashSet
+Multiset - BTreeMap<T, usize>  - HashMap<T, usize>
+Map  	 - BTreeMap 	       - HashMap
+Multimap - BTreeMap<K, Vec<V>> - HashMap<K, Vec<V>>
+
+-----------------------------------------------------
+Ada:
+
+Set      - Ordered_Sets 	- Hashed_Sets
+Multiset - Ordered_Maps + freq  - Hashed_Maps + freq
+Map 	 - Ordered_Maps 	- Hashed_Maps
+Multimap - Ordered_Maps + Vect  - Hashed_Maps + Vect
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+
