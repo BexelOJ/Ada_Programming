@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\WorkSpace\Ada\2024_08_Aug\default_01.gpr
+20240815022310 9f78b7c936fcb0cd7d8abbbc42e5d914
+[BOUND OBJECT FILES]
+D:\WorkSpace\Ada\2024_08_Aug\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\WorkSpace\Ada\2024_08_Aug\obj\
+-LD:\WorkSpace\Ada\2024_08_Aug\obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/
+-static
+-static-libgcc
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000

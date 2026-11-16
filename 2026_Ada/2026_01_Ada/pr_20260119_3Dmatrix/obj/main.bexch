@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_3Dmatrix\pr_3dmatrix.gpr
+20260119053600 071e5656b4d17f60a74e388e5421b3fa
+[BOUND OBJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_3Dmatrix\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_3Dmatrix\obj\
+-LD:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_3Dmatrix\obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/
+-static
+-static-libgcc
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000

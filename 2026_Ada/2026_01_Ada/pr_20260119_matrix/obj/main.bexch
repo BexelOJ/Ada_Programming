@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_matrix\pr_matrix.gpr
+20260119042908 809c89252b433d7475f4b9216ca101ef
+[BOUND OBJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_matrix\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LD:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_matrix\obj\
+-LD:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260119_matrix\obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/
+-static
+-static-libgcc
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000

@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__array_1d.o
+[PROJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Arrays\array_1d.gpr
+20260907102248 6d53c920e1fe9be2a38556ecca247f46
+[BOUND OBJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Arrays\obj\array_1d.o
+[GENERATED SOURCE FILES]
+b__array_1d.ads
+b__array_1d.adb
+b__array_1d.ali
+[RESULTING OPTIONS]
+-LD:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Arrays\obj\
+-LD:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Arrays\obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/
+-static
+-static-libgcc
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000

@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260115_hello\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260115_addfunction\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_subtraction\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260115_addfunction\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_subtraction\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_multiplication\src\math_ops.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 21" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 3" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\math_ops_division.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_01_Ada\pr_20260116_division\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

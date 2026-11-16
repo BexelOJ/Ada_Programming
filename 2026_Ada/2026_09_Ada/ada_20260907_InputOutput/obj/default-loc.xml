@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Variables\src\varconst.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_InputOutput\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_InputOutput\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 8" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_InputOutput\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 10" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_InputOutput\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 29" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 32" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 28" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 8" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 14" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 63" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 17" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 63" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 3" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 97" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 94" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Operators\src\operators.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 23" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 12" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 46" line=" 16" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 13" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 20" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_IfElse\src\condition.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\case.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\default.gpr</vfs_project>
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\case.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\default.gpr</vfs_project>
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 15" line=" 8" >
+      <vfs_project>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\default.gpr</vfs_project>
+      <vfs_file>D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Case\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

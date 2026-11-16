@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__varconst.o
+[PROJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Variables\variables.gpr
+20260907040416 7f92944da49170f14b700effe0da25be
+[BOUND OBJECT FILES]
+D:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Variables\obj\varconst.o
+[GENERATED SOURCE FILES]
+b__varconst.ads
+b__varconst.adb
+b__varconst.ali
+[RESULTING OPTIONS]
+-LD:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Variables\obj\
+-LD:\WorkSpace\Ada\2026_Ada\2026_09_Ada\ada_20260907_Variables\obj\
+-LC:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/
+-static
+-static-libgcc
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/12.1.0/adalib/libgnat.a
+-Wl,--stack=0x2000000
