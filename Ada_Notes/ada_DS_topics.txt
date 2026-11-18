@@ -127,7 +127,8 @@ No. Data structure - Implementation
 42  Priority Queue 	 - Implement using a heap
 43  Trie (Prefix Tree) 	 - Implement manually
 44  Segment Tree 	 - Implement manually
-45  Fenwick Tree (BinaryIndexedTree) - Implement manually
+45  Fenwick Tree (BinaryIndexedTree) - 
+    Implement manually
 46  Multiway Tree - Ada.Containers.Multiway_Trees
 
 Important: 

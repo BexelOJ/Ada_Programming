@@ -1,0 +1,299 @@
+-----------------------------------------------------
+Ada Data Structures – Complete Roadmap
+ADA DS
+
+LEARNING ROADMAP · 7 PHASES
+
+--------------------
+1. Phase 01:
+   
+   Fundamentals
+   
+   Arrays, records, access types, enumeration, 
+   strings and unconstrained arrays
+
+--------------------
+2. Phase 02:
+   
+   Linear Data Structures
+   
+   Dynamic arrays, linked lists, 
+   stacks, queues and deques
+
+--------------------
+3. Phase 03:
+   
+   Associative Data Structures
+   
+   Hash tables, maps, sets and 
+   ordered collections
+
+--------------------
+4. Phase 04:
+   
+   Trees
+   
+   Binary trees, BST, AVL, Red-Black trees, 
+   heaps, tries and B-trees
+
+--------------------
+5. Phase 05:
+   
+   Graphs
+   
+   Graph representations, traversal, 
+   shortest paths and spanning trees
+
+--------------------
+6. Phase 06:
+	
+   Advanced Data Structures
+   
+   Disjoint sets, Fenwick trees, segment trees, 
+   Bloom filters and LRU caches
+
+--------------------
+7. Phase 07:
+
+   Concurrent Data Structures
+   
+   Protected objects, synchronized queues and 
+   concurrent access
+   
+   
+-----------------------------------------------------
+Phase 01 – Ada fundamentals:
+
+No.	Topic
+
+01	Arrays
+02	Multidimensional arrays
+03	Strings and character arrays
+04	Records
+05	Enumerations and subtypes
+06	Access types (pointers)
+07	Dynamic memory allocation
+08	Unconstrained arrays
+09	Generic packages and procedures
+10	Storage pools and controlled types
+
+-----------------------------------------------------
+Phase 02 – Linear data structures:
+
+No.	Data structure
+
+01	Static Array
+02	Dynamic Array
+03	Singly Linked List
+04	Doubly Linked List
+05	Circular Linked List
+06	Stack (LIFO)
+07	Queue (FIFO)
+08	Circular Queue
+09	Double-Ended Queue (Deque)
+10	Priority Queue
+
+-----------------------------------------------------
+Phase 03 – Associative data structures:
+
+No.	Data structure
+
+01	Hash Table
+02	Hash Map
+03	Hash Set
+04	Collision Handling – Chaining
+05	Collision Handling – Open Addressing
+06	Ordered Map
+07	Ordered Set
+08	Multimap
+09	Multiset
+
+-----------------------------------------------------
+Phase 04 – Trees:
+
+No.	Data structure
+
+01	Binary Tree
+02	Tree Traversals – Inorder, Preorder, Postorder
+03	Binary Search Tree (BST)
+04	BST Insertion and Deletion
+05	Tree Height and Balancing
+06	AVL Tree
+07	Red-Black Tree
+08	Binary Heap
+09	Min Heap and Max Heap
+10	Trie (Prefix Tree)
+11	B-Tree
+12	B+ Tree
+13	Multiway Tree
+
+-----------------------------------------------------
+Phase 05 – Graphs:
+
+No.	Topic
+
+01	Graph fundamentals
+02	Directed and Undirected Graphs
+03	Weighted and Unweighted Graphs
+04	Adjacency Matrix
+05	Adjacency List
+06	Breadth-First Search (BFS)
+07	Depth-First Search (DFS)
+08	Cycle Detection
+09	Topological Sorting
+10	Dijkstra's Algorithm
+11	Bellman-Ford Algorithm
+12	Floyd-Warshall Algorithm
+13	Minimum Spanning Tree
+14	Prim's Algorithm
+15	Kruskal's Algorithm
+
+-----------------------------------------------------
+Phase 06 – Advanced data structures:
+
+No.	Data structure
+
+01	Disjoint Set Union (DSU)
+02	Union-Find
+03	Fenwick Tree (Binary Indexed Tree)
+04	Segment Tree
+05	Lazy Propagation
+06	Sparse Table
+07	Bloom Filter
+08	LRU Cache
+09	Ring Buffer
+10	Skip List
+11	Suffix Array
+12	Suffix Tree
+
+-----------------------------------------------------
+Phase 07 – Concurrent data structures:
+
+Particularly useful for 
+embedded and systems programming
+
+No.	Data structure / concept
+
+01	Protected Objects
+02	Protected Queue
+03	Synchronized Queue
+04	Producer-Consumer Buffer
+05	Concurrent Ring Buffer
+06	Bounded Buffer
+07	Task-Safe Data Access
+
+-----------------------------------------------------
+Ada standard library comparison
+One important part of this roadmap is learning 
+Ada's standard Ada.Containers packages 
+after implementing the underlying concepts manually.
+
+Your implementation	Ada standard package
+Dynamic Array - Ada.Containers.Vectors
+Bounded Array - Ada.Containers.Bounded_Vectors
+Doubly Linked List - Ada.Containers.Doubly_Linked_Lists
+Hash Map - Ada.Containers.Hashed_Maps
+Ordered Map - Ada.Containers.Ordered_Maps
+Hash Set - Ada.Containers.Hashed_Sets
+Ordered Set - Ada.Containers.Ordered_Sets
+Multiway Tree - Ada.Containers.Multiway_Trees
+
+Recommended implementation format:
+
+1. Concept: 
+   What is the data structure?
+
+2. Internal representation: 
+   How is memory organized?
+
+3. Operations: 
+   Insert, delete, search, traverse, update.
+
+4. Complexity: 
+   Time and space complexity.
+
+5. C comparison: 
+   How would you implement it in C?
+
+6. Rust comparison: 
+   How does Rust handle ownership and memory?
+
+7. Ada implementation: 
+   Write a standalone Ada program.
+
+8. Generic implementation: 
+   Where appropriate, implement using Ada generics.
+
+9. Testing: 
+   Test cases, boundary conditions and expected output.
+
+10. Standard library: 
+    Compare with Ada.Containers.
+
+-----------------------------------------------------
+Suggested project folder structure:
+For your existing Ada_Programming repository:
+
+2026_Ada/
+└── 2026_11_Ada/
+    └── Data_Structures/
+        ├── 01_Fundamentals/
+        ├── 02_Linear/
+        ├── 03_Associative/
+        ├── 04_Trees/
+        ├── 05_Graphs/
+        ├── 06_Advanced/
+        ├── 07_Concurrent/
+        ├── Ada_Containers_Comparison/
+        └── README.md
+		
+-----------------------------------------------------
+Suggested naming convention:
+
+ada_20261118_ds_Array_01.adb
+ada_20261119_ds_Dynamic_Array_01.adb
+ada_20261120_ds_Singly_Linked_List_01.adb
+
+-----------------------------------------------------
+My recommendation
+Follow this order:
+
+First:
+Implement the data structures manually using Ada
+
+Second:
+Understand generic programming and memory management
+
+Third:
+Compare your implementation with Ada.Containers
+
+Fourth:
+Write test programs for 
+insertion, deletion, searching, edge cases 
+and memory handling.
+
+This way, you learn both Ada programming and the 
+underlying data-structure engineering rather than 
+simply learning how to call library functions
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
+-----------------------------------------------------
+
+
